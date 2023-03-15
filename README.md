@@ -1,2 +1,2 @@
-# huto-bot
-GitHub Apps made for @Hutoorg
+# Huto Assistant Bot
+GitHub App made for @Hutoorg
